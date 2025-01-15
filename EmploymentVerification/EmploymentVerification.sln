@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmploymentVerification", "EmploymentVerification\EmploymentVerification.csproj", "{791E9C54-C7F2-48BF-94F7-E520FB921483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{791E9C54-C7F2-48BF-94F7-E520FB921483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791E9C54-C7F2-48BF-94F7-E520FB921483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791E9C54-C7F2-48BF-94F7-E520FB921483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791E9C54-C7F2-48BF-94F7-E520FB921483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E23AF3E-B42B-4D33-AF88-1EA1653FC4C4}
+	EndGlobalSection
+EndGlobal
