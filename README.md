@@ -7,3 +7,4 @@ data to check for verification
    EmployeeId = 1001, CompanyName = "Cisive Solutions", VerificationCode = "CS1001" 
    EmployeeId = 1002, CompanyName = "Tech Mahindra", VerificationCode = "TM1002" 
    EmployeeId = 1003, CompanyName = "Infosys Limited", VerificationCode = "IL1003"
+and also change this URL 'https://**localhost:44325**/api/verify-employment' as per your localhost port number
